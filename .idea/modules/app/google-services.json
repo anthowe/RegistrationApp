@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425427771321",
+    "firebase_url": "https://registrationapp-9555a.firebaseio.com",
+    "project_id": "registrationapp-9555a",
+    "storage_bucket": "registrationapp-9555a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425427771321:android:ec174bdb53d086ec09e068",
+        "android_client_info": {
+          "package_name": "com.anthonyh.registrationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425427771321-fm70n2u8mts5fcm9rsutm6kfe7pffftt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anthonyh.registrationapp",
+            "certificate_hash": "9807444b1cde45d1c838f4e2311fe7d3d1ee6f47"
+          }
+        },
+        {
+          "client_id": "425427771321-4vun7smb0hagtkjfotsqmaen4m54ka9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJZtQN2TeEQRbJwOA-NBLYlrmRnPHpVj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425427771321-4vun7smb0hagtkjfotsqmaen4m54ka9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
